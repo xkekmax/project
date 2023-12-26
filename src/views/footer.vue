@@ -3,33 +3,12 @@
         <div class="container">
             <div class="foot">
                 <div class="footer-text">
-                    Одежда для девочек
+                    Рубрики
                     <div class="ft-text">
-                        <p>Блузки, футболки, майки</p>
-                        <p>Платья, сарафаны</p>
-                        <p>Платья карнавальные</p>
-                        <p>Теплые платья, свитера, теплые кофты</p>
-                        <p>Брюки, бриджи, спортивная одежда, юбки</p>
-                        <p>Пижамы, домашняя одежда, купальники</p>
-                        <p>Верхняя одежда для девочек</p>
-                    </div>
-                </div>
-    
-                <div class="footer-text">
-                    Одежда для мальчиков
-                    <div class="ft-text">
-                        <p>Футболки, рубашки, толстовки</p>
-                        <p>Брюки, шорты, бриджи</p>
-                        <p>Пижамы, домашняя одежда для мальчиков</p>
-                        <p>Верхняя одежда</p>
-                    </div>
-                </div>
-    
-                <div class="footer-text">
-                    Suport clienti
-                    <div class="ft-text">
-                        <p>Бижутерия и аксесуары</p>
-                        <p>Товары для праздника с мультгероями</p>
+                        <p>Крючком</p>
+                        <p>Игрушки спицами</p>
+                        <p>Полезности</p>
+                        <p>Статьи</p>
                     </div>
                 </div>
     
@@ -66,8 +45,8 @@
 }
 .foot{
     display: flex;
-    justify-content: space-around;
-    padding: 55px 0px;
+    justify-content: space-between;
+    padding: 55px;
 }
 .ft{
     font-size: 16px;

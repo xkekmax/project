@@ -7,8 +7,8 @@
                     Каталог
                 </div>
 
-                <div class="akcii">Акции</div>
-                <div>О нас</div>
+                <div class="akcii">Скидки</div>
+                <div>Отзывы</div>
                 <div>Доставка и оплата</div>
                 <div>Новости</div>
                 <div>FAQ</div>
