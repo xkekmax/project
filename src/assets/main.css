@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+}
+.container{
+  margin: 0px 180px 0px 166px;
+  max-width: 1480px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+body {
+  background-image: url(@/images/fon.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+a{
+  text-decoration: none;
+}
